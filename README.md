@@ -46,6 +46,10 @@ Utilisation du couplage faible via l’interface IDao.
  🔹 Injection Dynamique
  <img width="748" height="677" alt="Capture 3" src="https://github.com/user-attachments/assets/706b6d1e-697a-4062-9d52-4bbc8a3a8914" />
 
+ NB: la version "Capteurs"
+ <img width="749" height="680" alt="image" src="https://github.com/user-attachments/assets/4760f109-f0ea-4f1d-9837-f2377a17e252" />
+
+
 
 
 
