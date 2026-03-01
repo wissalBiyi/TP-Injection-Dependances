@@ -36,9 +36,16 @@ Interface contenant la méthode calcul().
 4. Implémentation MetierImpl
    
  <img width="580" height="572" alt="image" src="https://github.com/user-attachments/assets/ef451f6d-6de8-42aa-ad3a-6f74998f7ea6" />
-
-
 Utilisation du couplage faible via l’interface IDao.
+
+🔹 Injection Statique
+
+<img width="660" height="673" alt="Capture 1" src="https://github.com/user-attachments/assets/6ee3d431-ccc4-4540-b78c-07302f004763" />
+
+
+ 🔹 Injection Dynamique
+ <img width="748" height="677" alt="Capture 3" src="https://github.com/user-attachments/assets/706b6d1e-697a-4062-9d52-4bbc8a3a8914" />
+
 
 
 
