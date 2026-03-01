@@ -1,8 +1,9 @@
 package net.biyi.pres;
 
 import net.biyi.dao.DaoImpl;
+import net.biyi.ext.DaoImplV2;
 import net.biyi.metier.MetierImpl;
-import net.biyi.net.biyi.ext.DaoImplV2;
+
 
 public class Pres1 {
     public static void main(String[] args) {

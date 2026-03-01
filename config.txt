@@ -1,2 +1,2 @@
-net.biyi.dao.DaoImpl
-net.biyi.metier.MeterImpl
+net.biyi.ext.DaoImplV2
+net.biyi.metier.MetierImpl

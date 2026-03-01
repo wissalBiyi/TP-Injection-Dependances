@@ -1,4 +1,4 @@
-package net.biyi.net.biyi.ext;
+package net.biyi.ext;
 
 import net.biyi.dao.IDao;
 
