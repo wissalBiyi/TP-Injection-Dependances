@@ -1,8 +1,15 @@
 package net.biyi.metier;
 
 import net.biyi.dao.IDao;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
+@Service("metier")
 public class MetierImpl implements IMetier{
+
+
     private IDao dao;  //Couplage faible
     /**
      * Pour injecter dans l'attribut dao
@@ -10,11 +17,11 @@ public class MetierImpl implements IMetier{
      * au moment de l'instantiation
      */
     public MetierImpl(IDao dao) {
+
         this.dao = dao;
     }
 
-    public MetierImpl() {
-    }
+
 
     @Override
     public double calcul() {
